@@ -1,0 +1,167 @@
+.navbar-nav a{
+    padding-right: 20px!important;
+}
+.smaill-font{
+    font-size: 11px;
+}
+.background1{
+
+    height: 492px;
+    background-image: url("razer-blade-17-homepage-desktop1x-refresh.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.background2{
+
+    height: 492px;
+    background-image: url("razer-skins-homepage-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background3{
+
+    height: 492px;
+    background-image: url("chair.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-1{
+
+    height: 411px;
+    background-image: url("2-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-2{
+
+    height: 411px;
+    background-image: url("2-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-3{
+
+    height: 411px;
+    background-image: url("2-3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-4{
+
+    height: 411px;
+    background-image: url("2-4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-5{
+
+    height: 411px;
+    background-image: url("2-5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.background2-6{
+
+    height: 411px;
+    background-image: url("2-6.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.footertext a{
+    color: gray;
+    text-decoration: none;
+
+}
+
+.accordion-button::after{
+    background-image: url(plus-solid.svg);
+}
+.accordion-button:not(.collapsed)::after{
+    background-image: url(dash.svg);
+}
+
+
+
+@media screen and (max-width: 992px) {
+.navposition{
+    margin: none;
+    justify-content: space-between;
+    width: 100%;
+}
+}
+@media screen and (max-width: 600px) {
+    .background1 {
+        background-image: url(razer-blade-17-homepage-desktop1x-refresh.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 50vh;
+        background-position: center;
+    }
+    .background2 {
+        height: 50vh;
+        background-image: url(razer-skins-homepage-desktop.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background3 {
+        height: 50vh;
+        background-image: url(chair.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-1 {
+        height: 50vh;
+        background-image: url(2-1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-2 {
+        height: 50vh;
+        background-image: url(2-2.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-3 {
+        height: 50vh;
+        background-image: url(2-3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-4 {
+        height: 50vh;
+        background-image: url(2-4.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-5 {
+        height: 50vh;
+        background-image: url(2-5.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .background2-6 {
+        height: 50vh;
+        background-image: url(2-6.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+  }
